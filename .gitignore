@@ -1,0 +1,23 @@
+# Dependencies
+node_modules/
+.pnpm-store/
+
+# Build & Vercel outputs
+.vercel/
+dist/
+out/
+build/
+
+# OS system files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Environment variables & local logs
+.env
+.env.local
+*.log
