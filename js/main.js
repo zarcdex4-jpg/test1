@@ -1,5 +1,5 @@
 /**
- * Baitul Jannah Jame Masjid - Main Interactive Script
+ * Baitul Jannah Jame Masjid Cheektowaga Islamic Center - Main Interactive Script
  */
 
 document.addEventListener('DOMContentLoaded', () => {
