@@ -324,6 +324,7 @@ a {
   height: 60px;      /* Adjust height to fit your navbar perfectly */
   width: auto;       /* Automatically maintains original image proportions */
   display: block;
+  mix-blend-mode: multiply;
 }
 
 .brand-text-wrapper {
