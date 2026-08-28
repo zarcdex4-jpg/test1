@@ -315,7 +315,7 @@ a {
 /* Align icon box and text side-by-side */
 .brand-logo {
   display: flex;
-  align-items: left;
+  align-items: center;
   gap: 12px;
   text-decoration: none;
 }
