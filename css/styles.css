@@ -318,16 +318,10 @@ a {
   gap: 0.75rem;
 }
 
-.logo-icon {
-  width: 46px;
-  height: 46px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  background: linear-gradient(135deg, var(--primary-emerald), var(--primary-emerald-dark));
-  border: 2px solid var(--accent-gold);
-  border-radius: var(--radius-sm);
-  box-shadow: 0 4px 10px rgba(10, 58, 42, 0.2);
+.logo-img {
+  height: 46px;      /* Adjust height to fit your navbar perfectly */
+  width: auto;       /* Automatically maintains original image proportions */
+  display: block;
 }
 
 .brand-text-wrapper {
