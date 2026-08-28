@@ -312,11 +312,6 @@ a {
   height: 80px;
 }
 
-.brand-logo {
-  display: flex;
-  align-items: center;
-  gap: 0.75rem;
-}
 
 .logo-img {
   height: 46px;      /* Adjust height to fit your navbar perfectly */
