@@ -312,11 +312,17 @@ a {
   height: 80px;
 }
 
+/* Align icon box and text side-by-side */
+.brand-logo {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  text-decoration: none;
+}
 
 .logo-img {
   height: 46px;      /* Adjust height to fit your navbar perfectly */
   width: 50;       /* Automatically maintains original image proportions */
-  align-items: center;
   display: flex;
 }
 
