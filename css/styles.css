@@ -338,7 +338,7 @@ a {
 .brand-name {
   font-family: var(--font-heading);
   font-weight: 700;
-  font-size: 1.2rem;
+  font-size: 1rem;
   color: var(--primary-emerald);
   line-height: 1.2;
 }
@@ -359,7 +359,7 @@ a {
 
 .nav-link {
   font-weight: 600;
-  font-size: 0.9rem;
+  font-size: 0.85rem;
   color: var(--text-dark);
   position: relative;
   padding: 0.5rem 0;
