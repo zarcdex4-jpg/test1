@@ -338,7 +338,7 @@ a {
 .brand-name {
   font-family: var(--font-heading);
   font-weight: 700;
-  font-size: 1.2rem;
+  font-size: 0.9rem;
   color: var(--primary-emerald);
   line-height: 1.2;
 }
