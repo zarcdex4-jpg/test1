@@ -321,8 +321,8 @@ a {
 }
 
 .logo-img {
-  height: 46px;      /* Adjust height to fit your navbar perfectly */
-  width: 50;       /* Automatically maintains original image proportions */
+  height: 55;      /* Adjust height to fit your navbar perfectly */
+  width: auto;       /* Automatically maintains original image proportions */
   display: block;
 }
 
